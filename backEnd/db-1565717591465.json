@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Danilo Araujo",
+      "email": "danilo.martins.ara@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Tõnico",
+      "email": "tonico@enois.com"
+    },
+    {
+      "id": 3,
+      "name": "Lennyng",
+      "email": "Lennyng@enois.com"
+    },
+    {
+      "id": 4,
+      "name": "Monica",
+      "email": "monica@enois.com"
+    },
+    {
+      "id": 5,
+      "name": "Igor",
+      "email": "igor@enois.com"
+    },
+    {
+      "id": 6,
+      "name": "motomoto",
+      "email": "moto2019@enois.com"
+    },
+    {
+      "id": 7,
+      "name": "Marco tulioou",
+      "email": "marcot@kids.com"
+    },
+    {
+      "id": 8,
+      "name": "Paulo Pote",
+      "email": "paulo34@hotmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Ti GIRSON",
+      "email": "tigirson@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Crispim",
+      "email": "crispim@outlook.com"
+    }
+  ]
+}
